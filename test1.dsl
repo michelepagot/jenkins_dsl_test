@@ -5,5 +5,5 @@ job('DSL-Tutorial-2-Test') {
 }
 
 folder('project-a') {
-2	    description('Folder for project A')
-3	}
+description('Folder for project A')
+}
